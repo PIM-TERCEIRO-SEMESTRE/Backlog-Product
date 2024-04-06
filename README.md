@@ -2,11 +2,11 @@
 
 1 - Gerenciamento do cultivo
 
-        1.1 Nome do alimento;
+        1.1 Cadastro de informações do alimento;
         1.2 Quantidade disponível;
         1.3 Data de entrada/plantio;
         1.4 Data de saída;
-        1.5 Tempo previsto para consumo.
+        1.5 Tempo previsto para consumo;
         
 2 – Gerenciamento de Funcionários e Fornecedores
 
@@ -24,4 +24,4 @@
 
         4.1 Utilização de recursos renováveis;
         4.2 Controle de gastos de consumo de água e energia; 
-        4.3 Gerenciamento de espaço disponível
+        4.3 Gerenciamento de espaço disponível;
