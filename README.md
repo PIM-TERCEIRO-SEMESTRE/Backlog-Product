@@ -23,6 +23,5 @@
 4– Gerenciamento de Recursos
 
         4.1 Utilização de recursos renováveis;
-        4.2 Controle de gastos de consumo de água; 
-        4.3 Gerenciamento de fertilizantes naturais;
-        4.4 Gerenciamento de espaço disponível
+        4.2 Controle de gastos de consumo de água e energia; 
+        4.3 Gerenciamento de espaço disponível
