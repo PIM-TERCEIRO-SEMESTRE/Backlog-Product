@@ -5,7 +5,6 @@ RF01 - Gerenciamento de Produção
         RF1.1 Cadastro de informações do alimento;
         RF1.2 Quantidade disponível;
         RF1.3 Data de entrada/plantio e saída;
-        RF1.4 Data de saída;
         
 RF02 – Gerenciamento de Funcionários e Fornecedores
 
