@@ -20,6 +20,5 @@ RF03 - Gerenciamento de qualidade do produto
         
 RF04– Gerenciamento de Recursos
 
-        RF4.1 Utilização de recursos renováveis;
-        RF4.2 Controle de gastos de consumo de água e energia; 
-        RF4.3 Gerenciamento de espaço disponível;
+        RF4.1 Controle de gastos de consumo de água e energia; 
+        RF4.2 Gerenciamento de espaço disponível;
