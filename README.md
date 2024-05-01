@@ -6,11 +6,12 @@ RF01 - Gerenciamento de Produção
         RF1.2 Quantidade disponível;
         RF1.3 Data de entrada/plantio e saída;
         
-RF02 – Gerenciamento de Funcionários e Fornecedores
+RF02 – Gerenciamento de Equipes, Funcionários e Fornecedores
 
-        RF2.1 Cadastro de funcionários;
-        RF2.2 Cadastro de fornecedores;
-        RF2.3 Permissões e hierarquia dos funcionários;
+        RF2.1 Cadastro de Equipes;
+        RF2.2 Cadastro de funcionários;
+        RF2.3 Cadastro de fornecedores;
+        RF2.4 Permissões e hierarquia dos funcionários;
         
 RF03 - Gerenciamento de qualidade do produto
 
