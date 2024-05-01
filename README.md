@@ -1,10 +1,13 @@
 # Backlog-Product
 
-RF01 - Gerenciamento de Produção e Venda
+RF01 - Gerenciamento de Produção, Venda e Envio
 
-        RF1.1 Cadastro de informações do alimento;
+        RF1.1 Cadastro de informações do produto;
         RF1.2 Quantidade disponível;
-        RF1.3 Data de entrada/plantio e saída;
+        RF1.3 Data de entrada e saída;
+        RF1.4 Status do produto; 
+        RF1.5 Solicitações de reposição;
+        RF1.6 Solicitações de Venda e Envio;
         
 RF02 – Gerenciamento de Equipes, Funcionários e Fornecedores
 
