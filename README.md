@@ -7,7 +7,7 @@ RF01 - Gerenciamento de Produção, Venda e Envio
         RF1.3 Data de entrada e saída;
         RF1.4 Status do produto; 
         RF1.5 Solicitar reposição;
-        RF1.6 Solicitações de Vendas;
+        RF1.6 Solicitações de Venda;
         
 RF02 – Gerenciamento de Equipes, Funcionários e Fornecedores
 
