@@ -2,7 +2,7 @@
 
 RF01 - Gerenciamento de Produção, Venda e Envio
 
-        RF1.1 Cadastro de informações do produto;
+        RF1.1 Cadastro do produto;
         RF1.2 Quantidade disponível;
         RF1.3 Data de entrada e saída;
         RF1.4 Status do produto; 
