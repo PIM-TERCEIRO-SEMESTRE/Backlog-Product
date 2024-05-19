@@ -3,12 +3,12 @@
 RF01 - Gerenciamento de Produção, Venda e Envio
 
         RF1.1 Cadastro do produto;
-        RF1.2 Cadastro de Insumos;
+        RF1.2 Cadastro de insumos;
         RF1.3 Quantidade disponível;
         RF1.4 Data de entrada e saída;
         RF1.5 Status do produto; 
         RF1.6 Solicitar reposição;
-        RF1.7 Solicitações de Venda;
+        RF1.7 Verificar solicitações de Venda;
         
 RF02 – Gerenciamento de Equipes, Funcionários e Fornecedores
 
@@ -26,5 +26,3 @@ RF03 - Gerenciamento de qualidade do produto
 RF04 – Gerenciamento de Recursos
 
         RF4.1 Controle de gastos de consumo de água e energia; 
-        RF4.2 Gerenciamento de espaço disponível;
-
