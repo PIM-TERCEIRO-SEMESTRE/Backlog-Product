@@ -12,10 +12,10 @@ RF01 - Gerenciamento de Produção, Venda e Envio
         
 RF02 – Gerenciamento de Equipes, Funcionários e Fornecedores
 
-        RF2.1 Cadastro de Equipes;
-        RF2.2 Cadastro de funcionários;
-        RF2.3 Cadastro de fornecedores;
-        RF2.4 Permissões e hierarquia dos funcionários;
+        RF2.1 Cadastro, Consulta, Edição e Atividade de Equipes;
+        RF2.2 Cadastro, Consulta, Edição e Atividade de Funcionários;
+        RF2.3 Cadastro, Consulta, Edição e Atividade de Fornecedores;
+        RF2.4 Permissões e hierarquia dos Funcionários;
         
 RF03 - Gerenciamento de qualidade do produto
 
