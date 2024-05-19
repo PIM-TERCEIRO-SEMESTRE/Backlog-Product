@@ -19,7 +19,7 @@ RF02 – Gerenciamento de Equipes, Funcionários e Fornecedores
         
 RF03 - Gerenciamento de qualidade do produto
 
-        RF3.1 Controle de temperatura do ambiente;
+        RF3.1 Controle de temperatura;
         RF3.2 Controle de Umidade;
         RF3.3 Controle de Luz;
         
